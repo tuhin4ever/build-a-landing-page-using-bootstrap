@@ -1,0 +1,41 @@
+.btn-secondary {
+    color: #fff;
+    background-color: #50d8af ;
+    border-color: #50d8af;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0c2e8a;
+    border-color: #0c2e8a;
+}
+.border-primary {
+    border-color: #0c2e8a !important;
+}
+.btn-outline-secondary {
+    color: white;
+    border-color: white;
+}
+.text-info{
+    color: #0c2e8a !important;
+}
+.bg-info {
+    background-color: #0c2e8a !important;
+}
+.text-warning {
+    color: #50d8af !important;
+}
+.banner-img-1{
+    background-image: url("./image/carousel/1.jpg");
+    height: 100vh;
+}
+.banner-img-2{
+    background-image: url("./image/carousel/2.jpg");
+    height: 100vh;
+}
+.banner-img-3{
+    background-image: url("./image/carousel/3.jpg");
+    height: 100vh;
+}
+.client-image{
+    width: 160px;
+}
